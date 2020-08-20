@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/1200px-No-logo.svg</file>
+        <file>resources/images/qsix_sp_inner.png</file>
+        <file>resources/images/qsix_sp_outer.png</file>
+        <file>resources/images/qsix_sp_sidewalls.png</file>
+    </qresource>
+</RCC>
